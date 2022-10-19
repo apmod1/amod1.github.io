@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-# email: 
+title: Apurva Mody's Homepage
+email: apurva@apurvamody.com
 description: Coming soon
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://test.apurvamody.com" # the base hostname & protocol for your site, e.g. http://example.com
