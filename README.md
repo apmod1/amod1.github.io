@@ -1,3 +1,1 @@
-# GitHub repository for personal website. 
-
-## Adding more things and projects soon.
+# apmod1.github.io
